@@ -7,8 +7,8 @@ This project focused on the design and optimization of a printed circuit board (
 
 The implant concept consists of two main parts:
 
-* **Sensor Unit** – responsible for fluorescence excitation and detection.
-* **Control Unit** – responsible for power management, signal handling, and system control.
+* **Sensor Unit** - responsible for fluorescence excitation and detection.
+* **Control Unit** - responsible for power management, signal handling, and system control.
 
 The aim of the project was to improve the electrical design, component selection, PCB layout, compactness, and feasibility of the optical implant system.
 
