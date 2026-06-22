@@ -74,9 +74,6 @@ The aim of the project was to improve the electrical design, component selection
 │   ├── pcb_layout_images/
 │   └── 3d_pcb_views/
 │
-├── Reports/
-│   └── project_summary.pdf
-│
 ├── README.md
 └── .gitignore
 ```
