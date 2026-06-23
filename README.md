@@ -1,5 +1,4 @@
-## ForschungsProjekt
-
+# ForschungsProjekt
 KiCad PCB Design for an Implantable Optical Sensor System for Glioblastoma Cancer Patients
 
 ## Overview
